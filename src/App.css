@@ -6,3 +6,8 @@ body {
   font-family: var(--default-font);
 }
 
+form {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
