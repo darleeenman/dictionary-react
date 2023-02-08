@@ -11,3 +11,9 @@ form {
   justify-content: center;
   margin-top: 50px;
 }
+
+.btn {
+  border: 1px solid #000;
+  border-radius: 5px;
+  margin-left: 15px;
+}
