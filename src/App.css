@@ -17,3 +17,8 @@ form {
   border-radius: 5px;
   margin-left: 15px;
 }
+
+.btn:hover {
+  color: darkslategrey;
+  border: 1px solid burlywood;
+}
