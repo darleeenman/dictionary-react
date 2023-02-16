@@ -1,0 +1,17 @@
+:root {
+  --main-font: #391e22;
+  --brown: #56373c;
+  --bg-color: #9f807dba;
+  --font-color: #e6d1d8;
+  --highlight-color: #d0b0b1;
+}
+
+.Phonetics a {
+  text-decoration: none;
+  text-align: center;
+  letter-spacing: 3px;
+}
+.Phonetics a:hover {
+  color: var(--highlight-color);
+  text-decoration: none;
+}
