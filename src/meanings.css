@@ -1,0 +1,18 @@
+.definition {
+  text-decoration: overline;
+  text-transform: uppercase;
+  font-size: large;
+}
+
+.example {
+  color: rgba(61, 101, 87, 0.719);
+  font-style: italic;
+  font-size: medium;
+}
+
+.synonym {
+  text-transform: lowercase;
+  text-decoration: dashed;
+  color: rgba(42, 94, 91, 0.826);
+  font-size: small;
+}
