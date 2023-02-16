@@ -1,0 +1,32 @@
+:root {
+  --main-font: #391e22;
+  --brown: #786044;
+  --bg-color: #f8cecad4;
+}
+
+.Dictionary section {
+  background: #ffffff55;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 0 rgb(0 0 0 / 10%);
+  margin: 20px 0;
+}
+.Dictionary .search {
+  width: 45%;
+  border-radius: 5px;
+  border: 1px solid var(--brown);
+}
+
+body {
+  color: var(--main-font);
+  background-color: var(--bg-color);
+}
+
+.search input:hover {
+  color: #fff;
+  background: var(--bg-color);
+}
+
+li {
+  list-style-type: "»";
+}
