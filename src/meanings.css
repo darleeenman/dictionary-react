@@ -16,3 +16,9 @@
   color: rgba(42, 94, 91, 0.826);
   font-size: small;
 }
+
+h3 {
+  letter-spacing: 5px;
+  font-variant: small-caps;
+  font-weight: bold;
+}
