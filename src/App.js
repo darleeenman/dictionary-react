@@ -1,4 +1,3 @@
-
 import React from "react";
 import "./App.css";
 import Dictionary from "./Dictionary";
@@ -11,7 +10,13 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center">Coded by Darleen Man</footer>
+        <footer className="text-center">
+          Coded by Darleen Man & is{" "}
+          <a href="https://github.com/darleeenman/dictionary-react">
+            open-sourced
+          </a>
+          <a href="https://grand-cajeta-df1dd6.netlify.app/"> + Netlify.</a>
+        </footer>
       </div>
     </div>
   );
