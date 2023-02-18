@@ -1,6 +1,6 @@
 import React from "react";
 import Synonyms from "./synonyms";
-import "./Meanings.css";
+import "./meanings.css";
 
 export default function Meaning(props) {
   console.log(props.meaning);
