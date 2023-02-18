@@ -32,3 +32,7 @@ form {
   background: var(--bg-color);
   transition: 200ms ease-in-out;
 }
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
